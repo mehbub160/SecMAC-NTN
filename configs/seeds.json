@@ -1,0 +1,17 @@
+{
+ "calibration": 90000,
+ "mac_density": 2000,
+ "reservation_tuned": 3000,
+ "mac_delay": 4000,
+ "replay_delay_pure": 5000,
+ "replay_delay_amc": 6000,
+ "replay_sync": 7000,
+ "replay_ntn": 8000,
+ "poison": 9000,
+ "poison_weak": 10000,
+ "pulsed": 11000,
+ "drag": 12000,
+ "sens_kappa": 13000,
+ "sens_amc": 14000,
+ "ablation": 15000
+}
