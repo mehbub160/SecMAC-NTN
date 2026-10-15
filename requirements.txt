@@ -1,0 +1,6 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+cryptography>=41
+# only for re-rendering the draw.io diagrams to PDF/SVG (diagrams/render_drawio.py)
+playwright>=1.40
